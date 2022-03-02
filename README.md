@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamish
 - 👀 I’m interested in Quant
-- 📫 How to reach me on Telegram or Twiter @hambudge
+- 📫 You can reach me on Telegram or Twiter @hambudge
 
 <!---
 hambudge/hambudge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
